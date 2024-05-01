@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <b>Website:</b>
-  <a href="https://vivekkushalch.github.io/Indian-Sign-Language-Recognition-System/">https://vivekkushalch.github.io/Indian-Sign-Language-Recognition-System/</a>
+  <a href="https://vivekkushalch.github.io/Indian-Sign-Language-Recognition-System/">(https://github.com/mrhacker210)/Indian-Sign-Language-Recognition-System/</a>
 </p>
 
 [![stars - Indian-Sign-Language-Recognition-System](https://img.shields.io/github/stars/vivekkushalch/Indian-Sign-Language-Recognition-System?style=social)](https://github.com/vivekkushalch/Indian-Sign-Language-Recognition-System)
@@ -32,21 +32,7 @@ Sanket is a cross-platform app designed to make communication more accessible an
   <img src="https://user-images.githubusercontent.com/77581157/231389104-bb0a42f8-e6e8-448b-978e-4c83733e0e52.png" alt="drawing" width="600"/>
 </p>
 
-### Our Team (Key 2 Innovation):
-- [Hrishikesh Das](https://github.com/hrishiD-codes) 
-- [Vivek Kushal Chakraborty](https://github.com/vivekkushalch)
-- [Jeet Ghosh](https://github.com/Jeet-programmer)
-- [Monoshiz Rai](https://github.com/Imon-stack)
-- [Jeet Santra](https://github.com/Developer-jeetS)
-- [Snigdhya Saha](https://github.com/snigdhya-saha)
-- [Tuhin Kanti Panja](https://github.com/programmertuhin)
-
-
 ## License
 This project is licensed under the <a href="https://github.com/vivekkushalch/Indian-Sign-Language-Recognition-System/blob/main/LICENSE">GPL-3.0 License</a>
 
 -------
-
-<a href="https://github.com/vivekkushalch/Indian-Sign-Language-Recognition-System/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vivekkushalch/Indian-Sign-Language-Recognition-System" />
-</a>
